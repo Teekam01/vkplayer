@@ -1,0 +1,17 @@
+{
+    "name": "VK Ludo Player",
+    "short_name": "VK Ludo Player",
+    "start_url": "/",
+    "background_color": "#ffffff",
+    "description": "Play In VK Ludo Player And Win Real Cash",
+    "display": "fullscreen",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
